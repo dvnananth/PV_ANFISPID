@@ -1,2 +1,1 @@
-# PV_ANFISPID
-PV cell BESS based ANFIS PID controller
+ANFIS Based MPPT controller for 100 W PV system
